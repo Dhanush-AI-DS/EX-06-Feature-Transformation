@@ -22,10 +22,11 @@ Step 4:
 Save the data to the file.
 
 ```
- CODE:
+##CODE:
 Developed By : DHANUSH S
 Register Number : 212221230020
-
+````
+````
  Titanic Dataset:
 import pandas as pd
 import numpy as np
